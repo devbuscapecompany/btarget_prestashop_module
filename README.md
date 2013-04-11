@@ -11,7 +11,9 @@ Para instalar o módulo Btarget no seu Prestashop siga os passos abaixo.
 ![Botão de Download Github](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/botaoZip.png)
 
 2.Descompacte o arquivo no lugar que desejar.
+
 3.Acesse o admin do seu Prestashop.
+
 4.Vá até a aba Módulos:
 
 ![Aba Módulos](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/abamodulos.png)
