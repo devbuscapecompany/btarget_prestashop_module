@@ -6,30 +6,26 @@ Instalação
 
 Para instalar o módulo Btarget no seu Prestashop siga os passos abaixo.
 
-1.Faça o download do módulo no botão "ZIP" como indicado na imagem abaixo:
+1.Faça o download do módulo [aqui](https://github.com/devbuscapecompany/btarget_prestashop_module/raw/master/btarget-0-1-0.zip):
 
-![Botão de Download Github](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/botaoZip.png)
+2.Acesse o admin do seu Prestashop.
 
-2.Descompacte o arquivo no lugar que desejar.
-
-3.Acesse o admin do seu Prestashop.
-
-4.Vá até a aba Módulos:
+3.Vá até a aba Módulos:
 
 ![Aba Módulos](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/abamodulos.png)
 
-5.Selecione a opção "Add New Module", na lateral direita superior da sua tela:
+4.Selecione a opção "Add New Module", na lateral direita superior da sua tela:
 
 ![Botão Add New Module](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/addmodulo.png)
 
-6.Na caixa de upload que irá aparecer, selecione o arquivo "btarget-0-1-0.zip" que se encontra na pasta onde você descompactou o arquivo anterior. Selecione 'Upload this module' para subir o módulo para o seu sistema.
+5.Na caixa de upload que irá aparecer, selecione o arquivo "btarget-0-1-0.zip" que você fez o download anteriormente. Selecione 'Upload this module' para subir o módulo para o seu sistema.
 
 ![Escolhendo o arquivo](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/choosefile.png)
 
 Se tudo der certo você vai obter uma mensagem de sucesso como a mostrada abaixo:
 ![Mensagem de sucesso](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/downloadedmodule.png)
 
-7.No menu lateral esquerdo da sua tela, selecione a opção "Administration" para ver apenas os módulos relacionados a administração. É nessa seção que o nosso módulo se encontra.
+6.No menu lateral esquerdo da sua tela, selecione a opção "Administration" para ver apenas os módulos relacionados a administração. É nessa seção que o nosso módulo se encontra.
 
 ![Aba de Admininstração](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/abaadministration.png)
 
@@ -41,7 +37,7 @@ Localizando o módulo, basca clicar agora na opção "Install" que se encontra d
 
 ![Mensagem de instalação sucesso](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/installedmodule.png)
 
-8.Com o módulo instalado, agora vamos configurá-lo com o seu código de cliente do Btarget. Para isso, basta clicar no botão "Configure", logo abaixo da descrição do módulo.
+7.Com o módulo instalado, agora vamos configurá-lo com o seu código de cliente do Btarget. Para isso, basta clicar no botão "Configure", logo abaixo da descrição do módulo.
 Feito isso você verá uma tela de configuração como a mostrada abaixo:
 
 ![Tela de configuração](https://raw.github.com/devbuscapecompany/btarget_prestashop_module/master/readme_imgs/settingsmodule.png)
