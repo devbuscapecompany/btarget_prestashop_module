@@ -36,6 +36,7 @@ class Btarget extends Module
 		$this->version = '0.1.0';
 		$this->author = 'Ale Borba';
 		$this->need_instance = 0;
+		$this->module_key = "e471e409eb75c1e6d74b5098d6b68cbb";
 
 		parent::__construct();
 
